@@ -4,3 +4,4 @@ flask-jwt
 flask_sqlalchemy
 sqlalchemy
 Werkzeug~=1.0.1
+uwsgi
