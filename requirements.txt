@@ -1,7 +1,5 @@
-flask_restful
-flask~=1.1.2
-flask-jwt
-flask_sqlalchemy
-sqlalchemy
-Werkzeug~=1.0.1
+Flask
+Flask-RESTFul
+Flask-JWT
+Flask-SQLAlchemy
 uwsgi
