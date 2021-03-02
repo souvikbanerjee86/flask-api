@@ -4,6 +4,8 @@
 
 ```
 pip install Falsk
+Flask-SQLAlchemy
+Flask-JWT
 python app.py
 ```
 #Description
